@@ -1,7 +1,7 @@
 <h1>Olá! Eu sou Felipe Capiberibe.</h1> 
 <li>🛩️ Dev Front-end <br> 
 <li>💻 Estudando Typerscript <br>
-<li>🙂 Pronouns: Ele/Dele
+<li>Em busca do meu primeiro Job:grey_exclamation: 
 <br></br>
 <div align="justify">
   <a href="https://github.com/FelipeCapiberibe">
